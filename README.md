@@ -1,16 +1,32 @@
-# flutter_application_12_project_ai
+# Project Title
 
-A new Flutter project.
+A Flutter Dart application integrates AI through the ChatGPT API and WhatsApp to empower small shop owners with limited mobile expertise to efficiently manage their businesses online.
 
-## Getting Started
+# Screenshots (Dark & Light Mode)
+![Example Image](/assets/project_images/1.jpeg)    
+ 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Example Image](/assets/project_images/2.jpeg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Example Image](/assets/project_images/3.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Example Image](/assets/project_images/4.jpeg)
+
+![Example Image](/assets/project_images/5.jpeg)
+
+![Example Image](/assets/project_images/6.jpeg)
+
+![Example Image](/assets/project_images/7.jpeg)
+
+![Example Image](/assets/project_images/8.jpeg)
+
+![Example Image](/assets/project_images/9.jpeg)
+
+![Example Image](/assets/project_images/10.jpeg)
+
+![Example Image](/assets/project_images/11.jpeg)
+
+![Example Image](/assets/project_images/12.jpeg)
+
+
